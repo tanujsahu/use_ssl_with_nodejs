@@ -9,8 +9,7 @@ npm (Node Package Manager)
 ## Required packages
 
     npm install https
-
-
+    npm install fs
     npm install http
 
 # SSL Certificates
